@@ -16,8 +16,8 @@ Paulo Trevisolli
 
 # Setar a Área de Trabalho:
 # Nesta área (pasta) deve se econtrar o arquivo CSV que contém nosso Banco de Dados
-# Diretório no Windows: E:\Cursos\USP\MBA Datascience e Analytics\97-Scripts R
-setwd("E:/Cursos/USP/MBA Datascience e Analytics/97-Scripts R")
+# Diretório no Windows: E:\Cursos\USP\MBA Datascience e Analytics\97-Scripts R\base-dados
+setwd("E:/Cursos/USP/MBA Datascience e Analytics/97-Scripts R/base-dados")
 getwd()
 
 # Leitura da Base de Dados
@@ -210,3 +210,4 @@ Valor_Analise_Acao_2 <- c(n,
 df_analise <- data.frame("Tipo de Análise" = Descricao_Analise, 
                          "Ação 1" = Valor_Analise_Acao_1, 
                          "Ação 2" = Valor_Analise_Acao_2)
+
