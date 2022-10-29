@@ -41,5 +41,9 @@ Consiste em uma base de dados, com 50 observações de renda, onde o objetivo de
 2) Criar a tabela de frequência;
 
 
+### <a href="https://github.com/Trevisolli/data-science/blob/master/Exercicio%20Complementar%2002.R">Exercício 02 </a>
+
+Com uma base de dados que consta o retorno de duas ações no mercado financeiro, calcule as estatísticas descritivas para as duas variáveis, incluindo o coeficiente de correlação entre os retornos.
+
 
 
