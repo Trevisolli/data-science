@@ -34,9 +34,10 @@ Softwares utilizados para a concepção e resolução:
 ## Exercícios
 
 ### Exercício 01 
+
 Consiste em uma base de dados, com 50 observações de renda, onde o objetivo de sua resolução é:
 
-1) Realizar o agrupamento por faixas de renda pré-determinadas;
+1) Realizar o agrupamento por faixas de renda pré-determinadas, classificando os correntistas por faixas de renda;
 2) Criar a tabela de frequência;
 
 
