@@ -1,10 +1,15 @@
-<h1 align="center">
-  <p align="center">data-science & analytics</p>
-  <a href="https://mbauspesalq.com/#cursos"><img src="https://github.com/Trevisolli/data-science/blob/master/imagens/mbausplogo.png" alt="Cursos MBA USP Esalq" width="200" height="200"></a>
-</h1>
+
+<p align="center">
+  <img width="140" src="https://github.com/Trevisolli/data-science/blob/master/imagens/mbausplogo.png" />  
+  <h2 align="center">Data Science & Analytics</h2>
+  <p align="center">🏆 Repositório criado para manter e compartilhar objetos criados durante o MBA USP/Esalq de Data Science & Analytics <b>(Turma 2022-2)</b></p>
+</p>
+
 
 # Introdução 
-Repositório criado para manter os objetos de aprendizado do Curso: <b>MBA Data Science &amp; Analytics USP/Esalq 2022-2</b>.
+Irei disponibilizar aqui, os Exercícios, resolvidos originalmente em Excel, porém, convertidos neste repositório para a Linguagem R, por questões de estudo, adaptação à linguagem e compartilhamento de conhecimento.
+
+Sugestões de melhoria, são sempre bem vindas!
 
 ## Pré Requisitos 
 Softwares utilizados:
