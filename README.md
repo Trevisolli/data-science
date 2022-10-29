@@ -33,7 +33,7 @@ Softwares utilizados para a concepção e resolução:
 
 ## Exercícios
 
-### Exercício 01 
+### <a href="https://github.com/Trevisolli/data-science/blob/master/Exercicio%20Complementar%2001.R">Exercício 01 </a>
 
 Consiste em uma base de dados, com 50 observações de renda, onde o objetivo de sua resolução é:
 
