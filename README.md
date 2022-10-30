@@ -31,7 +31,8 @@ Softwares utilizados para a concepção e resolução:
 </ul>  
 
 
-## Exercícios
+## Exercícios Complementares Introdutórios
+Pasta: 01-Introdução à Estatística e Linguagem R
 
 ### <a href="https://github.com/Trevisolli/data-science/blob/master/Exercicio%20Complementar%2001.R">Exercício 01 </a>
 
