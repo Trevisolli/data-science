@@ -16,8 +16,8 @@ Paulo Trevisolli
 
 # Setar a Área de Trabalho:
 # Nesta área (pasta) deve se econtrar o arquivo CSV que contém nosso Banco de Dados
-# Diretório no Windows: E:\Cursos\USP\MBA Datascience e Analytics\97-Scripts R\base-dados
-setwd("E:/Cursos/USP/MBA Datascience e Analytics/97-Scripts R/base-dados")
+# Diretório no Windows: E:\Cursos\USP\MBA Datascience e Analytics\97-Scripts R\01-Introdução à Estatística e Linguagem R\base-dados
+setwd("E:/Cursos/USP/MBA Datascience e Analytics/97-Scripts R/01-Introdução à Estatística e Linguagem R/base-dados")
 getwd()
 
 # Leitura da Base de Dados

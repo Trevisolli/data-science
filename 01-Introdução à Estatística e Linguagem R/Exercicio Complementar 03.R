@@ -12,13 +12,6 @@
 # Paulo Trevisolli
 # 29/10/2022
 
-
-# Setar a Área de Trabalho:
-# Nesta área (pasta) deve se econtrar o arquivo CSV que contém nosso Banco de Dados
-# Diretório no Windows: E:\Cursos\USP\MBA Datascience e Analytics\97-Scripts R
-setwd("E:/Cursos/USP/MBA Datascience e Analytics/97-Scripts R")
-getwd()
-
 # Probabilidade de Sucesso (p)
 p <-  (1/6)
 
