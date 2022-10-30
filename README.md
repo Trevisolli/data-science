@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="140" src="https://github.com/Trevisolli/data-science/blob/master/imagens/mbausplogo.png" />  
+  <img width="140" src="https://github.com/Trevisolli/data-science/blob/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R/imagens/mbausplogo.png"/>  
   <h2 align="center">Data Science & Analytics</h2>
   
    
@@ -32,7 +32,7 @@ Softwares utilizados para a concepção e resolução:
 
 
 ## Exercícios Complementares Introdutórios
-Pasta: 01-Introdução à Estatística e Linguagem R
+Pasta: <a href="https://github.com/Trevisolli/data-science/tree/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R"> 01-Introdução à Estatística e Linguagem R </a>
 
 ### <a href="https://github.com/Trevisolli/data-science/blob/master/Exercicio%20Complementar%2001.R">Exercício 01 </a>
 
