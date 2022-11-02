@@ -34,7 +34,7 @@ Softwares utilizados para a concepção e resolução:
 ## Exercícios Complementares Introdutórios
 Pasta: <a href="https://github.com/Trevisolli/data-science/tree/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R"> 01-Introdução à Estatística e Linguagem R </a>
 
-### <a href="https://github.com/Trevisolli/data-science/blob/master/Exercicio%20Complementar%2001.R">Exercício 01 </a>
+### <a href="https://github.com/Trevisolli/data-science/blob/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R/Exercicio%20Complementar%2001.R">Exercício 01 </a>
 
 Consiste em uma base de dados, com 50 observações de renda, onde o objetivo de sua resolução é:
 
@@ -42,7 +42,7 @@ Consiste em uma base de dados, com 50 observações de renda, onde o objetivo de
 2) Criar a tabela de frequência;
 
 
-### <a href="https://github.com/Trevisolli/data-science/blob/master/Exercicio%20Complementar%2002.R">Exercício 02 </a>
+### <a href="https://github.com/Trevisolli/data-science/blob/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R/Exercicio%20Complementar%2002.R">Exercício 02 </a>
 
 Com uma base de dados que consta o retorno de duas ações no mercado financeiro, calcule as estatísticas descritivas para as duas variáveis, incluindo o coeficiente de correlação entre os retornos.
 
