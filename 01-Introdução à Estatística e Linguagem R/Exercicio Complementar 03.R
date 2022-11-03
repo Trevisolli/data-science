@@ -4,7 +4,7 @@
 # Lista de Exercícios Complementares :  Resolvido na Linguagem R para contato e adaptação à mesma.
 
 
-# 2.Em certo jogo, probabilidade de vitória (sucesso) a cada nova jogada é 1/6. 
+# 3.Em certo jogo, probabilidade de vitória (sucesso) a cada nova jogada é 1/6. 
 # Se forem feitas 10 jogadas,quais são as seguintes probabilidades:
 # a) Ter vitória em 4 jogadas.
 # b) Ter vitória em pelo menos 7 jogadas.
