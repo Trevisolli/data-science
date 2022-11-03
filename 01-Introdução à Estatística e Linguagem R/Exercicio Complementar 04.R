@@ -3,6 +3,14 @@
 # a probabilidade de que o aluno
 # precise fazer 20 questões para acertar 12
 
+# ####################################################################### # 
+# Distribuição Binomial Negativa 
+# ####################################################################### # 
+
+# Paulo Trevisolli
+# 03/11/2022
+
+
 # p (probabilidade de sucesso) = 3/5 Suposição de 3 acertos à cada 5 testes 
 p = (3/5) 
 
